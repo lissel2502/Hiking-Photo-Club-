@@ -227,7 +227,7 @@ transition: color 0.2s ease;
 }
 
 .info a:hover {
-color: var(--cool-accent);
+  color: var(--warm-accent);
 }
 
 footer {
